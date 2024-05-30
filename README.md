@@ -1,7 +1,4 @@
 # Frontend Mentor - Age calculator app
-**Click here for revie my website/project: -**
-
-https://rohitdubey1352.github.io/Age-calculator-app/
 
 ## Welcome! 👋
 
